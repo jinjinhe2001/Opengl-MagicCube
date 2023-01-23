@@ -1,5 +1,5 @@
 # Opengl-MagicCube  
-基于OpenGL的可操作魔方  
+Git clone this repo and open it in Visual Studio Community IDE.
 ## Operations
 - 1-9 keys to select the number of operable layers
 - Q/E for left/right rotation
